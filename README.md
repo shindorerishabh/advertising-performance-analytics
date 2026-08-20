@@ -102,6 +102,11 @@ Repository Contents
 - `screenshots/` — project evidence and dashboard screenshots.
 - `documentation/` — detailed project report.
 
+## Full Report
+
+[Read the full analytics report](documentation/advertising_analytics_report.pdf)
+
+
 Disclaimer
 
 This project uses a publicly available advertising dataset downloaded from Kaggle for educational and portfolio purposes. It is not a live production database and does not represent actual business operations, real customer activity, or current advertising performance.
