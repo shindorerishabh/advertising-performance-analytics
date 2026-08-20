@@ -229,5 +229,3 @@ The data was cleaned and transformed for analysis. In particular, **413 records*
 **Rishabh Shindore**  
 Digital Media & Marketing Analyst | Business Intelligence  
 Pune, India  
-
-- Email: [Add your email if you want it public]
